@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Whack A Mole"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a22b4d84c5c2c06295b07ed05cee2f9ad1c81afd"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695dce6074ebe7c253be8713ba33733237b1dc33"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Whack A Mole"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Whack A Mole"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
